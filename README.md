@@ -9,4 +9,4 @@ We generate random, logically coherent data for 5000 agent requests and choose o
 
 There is a second piece of code for the graph generation.
 
-The datasets used for graph generation have been provided as well.
+The datasets used for graph generation have been provided in the Statistics folder.
