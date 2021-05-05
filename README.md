@@ -1,7 +1,7 @@
 # Surplus-Food-Distribution-Simulation-2021-May
 Surplus Food Distribution Simulation Data and Code - 2021 May
 
-This is the code pieces used in the Surplus Food Distribution Simulation.
+These are the Python3 code pieces used in the Surplus Food Distribution Simulation.
 
 The parameters used for the data generation program are:
 
